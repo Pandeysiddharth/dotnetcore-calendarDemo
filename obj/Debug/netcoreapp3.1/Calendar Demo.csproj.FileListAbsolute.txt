@@ -1,0 +1,40 @@
+/Users/siddharthpandey/Documents/Alibaba 101/Web apps/Calendar Demo/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/siddharthpandey/Documents/Alibaba 101/Web apps/Calendar Demo/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/siddharthpandey/Documents/Alibaba 101/Web apps/Calendar Demo/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/siddharthpandey/Documents/Alibaba 101/Web apps/Calendar Demo/bin/Debug/netcoreapp3.1/Calendar Demo.deps.json
+/Users/siddharthpandey/Documents/Alibaba 101/Web apps/Calendar Demo/bin/Debug/netcoreapp3.1/Calendar Demo.runtimeconfig.json
+/Users/siddharthpandey/Documents/Alibaba 101/Web apps/Calendar Demo/bin/Debug/netcoreapp3.1/Calendar Demo.runtimeconfig.dev.json
+/Users/siddharthpandey/Documents/Alibaba 101/Web apps/Calendar Demo/bin/Debug/netcoreapp3.1/Calendar Demo.dll
+/Users/siddharthpandey/Documents/Alibaba 101/Web apps/Calendar Demo/bin/Debug/netcoreapp3.1/Calendar Demo.pdb
+/Users/siddharthpandey/Documents/Alibaba 101/Web apps/Calendar Demo/bin/Debug/netcoreapp3.1/Calendar Demo.Views.dll
+/Users/siddharthpandey/Documents/Alibaba 101/Web apps/Calendar Demo/bin/Debug/netcoreapp3.1/Calendar Demo.Views.pdb
+/Users/siddharthpandey/Documents/Alibaba 101/Web apps/Calendar Demo/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/siddharthpandey/Documents/Alibaba 101/Web apps/Calendar Demo/bin/Debug/netcoreapp3.1/Syncfusion.EJ2.dll
+/Users/siddharthpandey/Documents/Alibaba 101/Web apps/Calendar Demo/bin/Debug/netcoreapp3.1/Syncfusion.Licensing.dll
+/Users/siddharthpandey/Documents/Alibaba 101/Web apps/Calendar Demo/obj/Debug/netcoreapp3.1/Calendar Demo.csprojAssemblyReference.cache
+/Users/siddharthpandey/Documents/Alibaba 101/Web apps/Calendar Demo/obj/Debug/netcoreapp3.1/Calendar Demo.csproj.CoreCompileInputs.cache
+/Users/siddharthpandey/Documents/Alibaba 101/Web apps/Calendar Demo/obj/Debug/netcoreapp3.1/Calendar Demo.MvcApplicationPartsAssemblyInfo.cs
+/Users/siddharthpandey/Documents/Alibaba 101/Web apps/Calendar Demo/obj/Debug/netcoreapp3.1/Calendar Demo.MvcApplicationPartsAssemblyInfo.cache
+/Users/siddharthpandey/Documents/Alibaba 101/Web apps/Calendar Demo/obj/Debug/netcoreapp3.1/Calendar Demo.RazorAssemblyInfo.cache
+/Users/siddharthpandey/Documents/Alibaba 101/Web apps/Calendar Demo/obj/Debug/netcoreapp3.1/Calendar Demo.RazorAssemblyInfo.cs
+/Users/siddharthpandey/Documents/Alibaba 101/Web apps/Calendar Demo/obj/Debug/netcoreapp3.1/Calendar Demo.AssemblyInfoInputs.cache
+/Users/siddharthpandey/Documents/Alibaba 101/Web apps/Calendar Demo/obj/Debug/netcoreapp3.1/Calendar Demo.AssemblyInfo.cs
+/Users/siddharthpandey/Documents/Alibaba 101/Web apps/Calendar Demo/obj/Debug/netcoreapp3.1/Calendar Demo.TagHelpers.input.cache
+/Users/siddharthpandey/Documents/Alibaba 101/Web apps/Calendar Demo/obj/Debug/netcoreapp3.1/Calendar Demo.TagHelpers.output.cache
+/Users/siddharthpandey/Documents/Alibaba 101/Web apps/Calendar Demo/obj/Debug/netcoreapp3.1/Calendar Demo.RazorCoreGenerate.cache
+/Users/siddharthpandey/Documents/Alibaba 101/Web apps/Calendar Demo/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/siddharthpandey/Documents/Alibaba 101/Web apps/Calendar Demo/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs
+/Users/siddharthpandey/Documents/Alibaba 101/Web apps/Calendar Demo/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/siddharthpandey/Documents/Alibaba 101/Web apps/Calendar Demo/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/siddharthpandey/Documents/Alibaba 101/Web apps/Calendar Demo/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/siddharthpandey/Documents/Alibaba 101/Web apps/Calendar Demo/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/siddharthpandey/Documents/Alibaba 101/Web apps/Calendar Demo/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/siddharthpandey/Documents/Alibaba 101/Web apps/Calendar Demo/obj/Debug/netcoreapp3.1/Calendar Demo.RazorTargetAssemblyInfo.cache
+/Users/siddharthpandey/Documents/Alibaba 101/Web apps/Calendar Demo/obj/Debug/netcoreapp3.1/Calendar Demo.RazorTargetAssemblyInfo.cs
+/Users/siddharthpandey/Documents/Alibaba 101/Web apps/Calendar Demo/obj/Debug/netcoreapp3.1/Calendar Demo.Views.pdb
+/Users/siddharthpandey/Documents/Alibaba 101/Web apps/Calendar Demo/obj/Debug/netcoreapp3.1/Calendar Demo.csproj.CopyComplete
+/Users/siddharthpandey/Documents/Alibaba 101/Web apps/Calendar Demo/obj/Debug/netcoreapp3.1/staticwebassets/Calendar Demo.StaticWebAssets.Manifest.cache
+/Users/siddharthpandey/Documents/Alibaba 101/Web apps/Calendar Demo/obj/Debug/netcoreapp3.1/staticwebassets/Calendar Demo.StaticWebAssets.xml
+/Users/siddharthpandey/Documents/Alibaba 101/Web apps/Calendar Demo/obj/Debug/netcoreapp3.1/Calendar Demo.dll
+/Users/siddharthpandey/Documents/Alibaba 101/Web apps/Calendar Demo/obj/Debug/netcoreapp3.1/Calendar Demo.pdb
+/Users/siddharthpandey/Documents/Alibaba 101/Web apps/Calendar Demo/obj/Debug/netcoreapp3.1/Calendar Demo.genruntimeconfig.cache

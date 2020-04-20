@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <PackageId></PackageId>
+    <Description></Description>
+    <IsPackable>true</IsPackable>
+    <RootNamespace>Calendar_Demo</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Syncfusion.EJ2.AspNet.Core" Version="18.1.0.44" />
+  </ItemGroup>
+
+ 
+
+</Project>
